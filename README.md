@@ -1,0 +1,2 @@
+# mybot
+Bitmexbot testnet
