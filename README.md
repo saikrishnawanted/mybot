@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 install python 3.4
 
 install virtualenv
@@ -22,3 +23,7 @@ if you want to go in live mode use settings.MODE = LIVE
 
 
 to run the bot please run main.py file
+=======
+# mybot
+Bitmexbot testnet
+>>>>>>> 5e038e1c248fde4c22fc6d16e804ed0f8825f26f
