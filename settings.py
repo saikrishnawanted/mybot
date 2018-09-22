@@ -19,14 +19,14 @@ SYMBOL = "XBTUSD"
 POSITION = 10000
 
 # tick interval used for mcad data
-TICK_INTERVAL = '1m'
+TICK_INTERVAL = '30m'
 
 STOP_LOSS_FACTOR = 0.007
 STOP_PROFIT_FACTOR = 0.01
 # There is two mode one is TESTING and other is LIVE
 MODE = "TESTING"
 
-INTERVAL = 0.005
+INTERVAL = 0.002
 
 RELIST_INTERVAL = 0.01
 
